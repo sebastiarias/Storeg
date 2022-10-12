@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- home strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="____somos_distribuidores_de_productos_gamer___string">Somos distribuidores de productos Gamer</string>
+	<string name="buscar_string">Buscar</string>
+	<string name="laptops_string">Laptops</string>
+	<string name="peri_ricos_string">Periricos</string>
+	<string name="sillas_string">Sillas</string>
+	<string name="tarjetas_gr_ficas_string">Tarjetas Grficas</string>
+	<string name="pantallas_string">Pantallas</string>
+	<string name="pc_gamers_string">Pc Gamers</string>
+	<string name="entregas_el_mismo_d_a_string">Entregas el mismo da</string>
+	<string name="entregamos_todo_lo_que_necesitas__cuando_lo_necesitas_string">Entregamos todo lo que necesitas, cuando lo necesitas</string>
+	<string name="pago_online_o_contra_entrega_string">Pago online o contra entrega</string>
+	<string name="escoge_tu_m_todo_de_pago__contamos_con_pasarelas_de_pagos_certificadas_y_seguras_string">Escoge tu mtodo de pago. Contamos con pasarelas de pagos certificadas y seguras</string>
+	<string name="todo_lo_que_necesitas_string">Todo lo que necesitas</string>
+	<string name="somos_tienda_gamer_importadores_de_hardware_y_software_para_tu_pc__string">Somos Tienda Gamer importadores de Hardware y Software para tu PC.</string>
+	<string name="laptops_ek1_string">Laptops</string>
+	<string name="laptop_multicolor_string">Laptop Multicolor</string>
+	<string name="agregar_al_carrito_string">Agregar al Carrito</string>
+	<string name="laptop_roja_string">Laptop Roja </string>
+	<string name="agregar_al_carrito_ek1_string">Agregar al Carrito</string>
+	<string name="agregar_al_carrito_ek2_string">Agregar al Carrito</string>
+	<string name="laptop_multicolor_ek1_string">Laptop Multicolor</string>
+	<string name="__3_500_000_string">$3.500.000</string>
+	<string name="_1_string">1</string>
+	<string name="pantalla_base_ek1_string">Pantalla Base</string>
+	<string name="__3_800_000_string">$3.800.000</string>
+	<string name="_2_string">2</string>
+	<string name="pc_gamer_blanco_ek1_string">Pc Gamer Blanco</string>
+	<string name="__2_500_000_string">$2.500.000</string>
+	<string name="_1_ek1_string">1</string>
+	<string name="silla_azul_string">Silla Azul</string>
+	<string name="__1_250_000_string">$1.250.000</string>
+	<string name="_1_ek2_string">1</string>
+	<string name="registrate_string">Regstrate</string>
+	<string name="crear_cuenta_nueva_string">Crear cuenta nueva</string>
+	<string name="usuario_string">Usuario</string>
+	<string name="contrase_a_string">Contrasea</string>
+	<string name="confimar_contrase_a_string">Confimar Contrasea</string>
+	<string name="registrate_ek1_string">Acceder</string>
+	<string name="registrate_ek2_string">Iniciar sesin</string>
+	<string name="usuario_ek1_string">Usuario</string>
+	<string name="contrase_a_ek1_string">Contrasea</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

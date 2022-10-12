@@ -1,0 +1,144 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		Wednesday 12th of October 2022 02:34:27 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/login" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_login_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__login_ek2"
+					android:background="@drawable/_bg__login_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<View   android:id="@+id/rectangle_3_ek2"
+					android:background="@drawable/rectangle_3_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<ImageView
+					android:id="@+id/fondo_login_ek1"
+					android:layout_width="428dp"
+					android:layout_height="928dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="-2dp"
+					android:contentDescription="fondo_login_ek1"
+					android:src="@drawable/fondo_login_ek1" />
+
+				<Button
+					android:id="@+id/acceder"
+					android:layout_width="228dp"
+					android:layout_height="50dp"
+					android:layout_marginStart="101dp"
+					android:layout_marginTop="531dp"
+					android:background="@drawable/round_btn_azul"
+					android:backgroundTint="@color/rectangle_9_ek3_color"
+					android:contentDescription="@string/registrate_string"
+					android:text="@string/registrate_string"
+					android:textAllCaps="false"
+					android:textColor="#FFFFFF"
+					android:textSize="24sp"
+					tools:text="Acceder" />
+
+				<TextView android:id="@+id/registrate_ek2"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="25sp"
+					android:textColor="@color/_bg__home_ek2_color"
+					android:layout_marginLeft="78dp"
+					android:layout_marginTop="352dp"
+					android:layout_width="284dp"
+					android:layout_height="45.5dp"
+					android:text="@string/registrate_ek2_string"
+					 />
+
+				<View
+					android:id="@+id/rectangle_5_ek2"
+					android:layout_width="228dp"
+					android:layout_height="36dp"
+					android:layout_marginStart="100dp"
+					android:layout_marginTop="470dp"
+					android:background="@drawable/rectangle_5_ek2_shape" />
+
+				<View
+					android:id="@+id/rectangle_11_ek1"
+					android:layout_width="228dp"
+					android:layout_height="36dp"
+					android:layout_marginStart="101dp"
+					android:layout_marginTop="409dp"
+					android:background="@drawable/rectangle_11_ek1_shape" />
+
+				<EditText
+					android:id="@+id/usuario1"
+					android:layout_width="180dp"
+					android:layout_height="48dp"
+					android:layout_marginLeft="125dp"
+					android:layout_marginTop="403dp"
+					android:background=""
+					android:text="@string/contrase_a_string"
+					android:textAlignment="center"
+					android:textColor="@color/buscar_color"
+					android:textSize="16sp"
+					android:textStyle="bold"
+					tools:text="Usuario" />
+
+				<EditText
+					android:id="@+id/contraseña1"
+					android:layout_width="180dp"
+					android:layout_height="48dp"
+					android:layout_marginLeft="125dp"
+					android:layout_marginTop="465dp"
+					android:background=""
+					android:text="@string/contrase_a_string"
+					android:textAlignment="center"
+					android:textColor="@color/buscar_color"
+					android:textSize="16sp"
+					android:textStyle="bold"
+					tools:text="Contraseña" />
+
+				<ImageView android:id="@+id/logo_1_ek3"
+					android:src="@drawable/logo_1_ek3"
+					android:contentDescription="logo_1_ek3"
+					 android:layout_marginStart="48dp"
+					android:layout_marginTop="62dp"
+					android:layout_width="335dp"
+					android:layout_height="92dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

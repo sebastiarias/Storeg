@@ -1,0 +1,500 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		home
+	 *	@date 		Wednesday 12th of October 2022 02:34:27 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/home" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_home_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__home_ek2"
+					android:background="@drawable/_bg__home_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<View
+					android:id="@+id/rectangle_1"
+					android:layout_width="428dp"
+					android:layout_height="926dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/rectangle_1_shape" />
+
+				<View   android:id="@+id/rectangle_4"
+					android:background="@drawable/rectangle_4_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="46dp" />
+
+				<TextView
+					android:id="@+id/____somos_distribuidores_de_productos_gamer__"
+					android:layout_width="375dp"
+					android:layout_height="31dp"
+					android:layout_marginLeft="37dp"
+					android:layout_marginTop="13dp"
+					android:text="@string/____somos_distribuidores_de_productos_gamer___string"
+					android:textColor="@color/_bg__home_ek2_color"
+					android:textSize="16sp"
+					android:textStyle="bold"
+					tools:text="🕹️Somos distribuidores de productos Gamer🎮" />
+
+				<ImageView
+					android:id="@+id/logo"
+					android:layout_width="291dp"
+					android:layout_height="80dp"
+					android:layout_marginStart="68dp"
+					android:layout_marginTop="49dp"
+					android:contentDescription="logo"
+					android:src="@drawable/logo" />
+
+				<View   android:id="@+id/rectangle_5"
+					android:background="@drawable/rectangle_5_shape"
+					 android:layout_marginStart="31dp"
+					android:layout_marginTop="130dp"
+					android:layout_width="366dp"
+					android:layout_height="36dp" />
+
+
+				<RelativeLayout android:id="@+id/____icon__search_"
+					android:layout_marginTop="138dp"
+					android:layout_marginStart="46dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView android:id="@+id/vector"
+						android:src="@drawable/vector"
+						android:contentDescription="vector"
+						 android:layout_marginStart="12dp"
+						android:layout_marginTop="12dp"
+						android:layout_width="7dp"
+						android:layout_height="7dp" />
+
+					<ImageView android:id="@+id/vector_ek1"
+						android:src="@drawable/vector_ek1"
+						android:contentDescription="vector_ek1"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="15.55dp"
+						android:layout_height="15.55dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/buscar"
+					android:textStyle="bold"
+					android:textSize="20sp"
+					android:textColor="@color/buscar_color"
+					android:layout_marginLeft="76dp"
+					android:layout_marginTop="136dp"
+					android:layout_width="91dp"
+					android:layout_height="39dp"
+					android:text="@string/buscar_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/group_1"
+					android:layout_marginTop="463dp"
+					android:layout_marginStart="28dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView
+						android:id="@+id/laptop"
+						android:layout_width="100dp"
+						android:layout_height="100dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="laptop"
+						android:src="@drawable/laptop" />
+
+					<TextView android:id="@+id/laptops"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/rectangle_4_color"
+						android:layout_marginLeft="15dp"
+						android:layout_marginTop="106dp"
+						android:layout_width="77dp"
+						android:layout_height="31dp"
+						android:text="@string/laptops_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_4"
+					android:layout_marginTop="615dp"
+					android:layout_marginStart="28dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView
+						android:id="@+id/periferico"
+						android:layout_width="100dp"
+						android:layout_height="100dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="periferico"
+						android:src="@drawable/periferico" />
+
+					<TextView
+						android:id="@+id/peri_ricos"
+						android:layout_width="89dp"
+						android:layout_height="31dp"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginLeft="9dp"
+						android:layout_marginTop="109dp"
+						android:gravity="center"
+						android:text="@string/peri_ricos_string"
+						android:textColor="@color/rectangle_4_color"
+						android:textSize="16sp"
+						android:textStyle="bold"
+						tools:text="Periféricos" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_5"
+					android:layout_marginTop="615dp"
+					android:layout_marginStart="160dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView
+						android:id="@+id/silla"
+						android:layout_width="100dp"
+						android:layout_height="100dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="silla"
+						android:src="@drawable/silla" />
+
+					<TextView android:id="@+id/sillas"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/rectangle_4_color"
+						android:layout_marginLeft="27dp"
+						android:layout_marginTop="109dp"
+						android:layout_width="53dp"
+						android:layout_height="31dp"
+						android:text="@string/sillas_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_6"
+					android:layout_marginTop="615dp"
+					android:layout_marginStart="271dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView
+						android:id="@+id/tarjeta_grafica"
+						android:layout_width="100dp"
+						android:layout_height="100dp"
+						android:layout_marginStart="17dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="tarjeta_grafica"
+						android:src="@drawable/tarjeta_grafica" />
+
+					<TextView
+						android:id="@+id/tarjetas_gr_ficas"
+						android:layout_width="146dp"
+						android:layout_height="31dp"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginLeft="-3dp"
+						android:layout_marginTop="109dp"
+						android:gravity="center"
+						android:text="@string/tarjetas_gr_ficas_string"
+						android:textColor="@color/rectangle_4_color"
+						android:textSize="16sp"
+						android:textStyle="bold"
+						tools:text="Tarjetas Gráficas" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_2"
+					android:layout_marginTop="463dp"
+					android:layout_marginStart="160dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView
+						android:id="@+id/pantalla"
+						android:layout_width="100dp"
+						android:layout_height="100dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="pantalla"
+						android:src="@drawable/pantalla" />
+
+					<TextView android:id="@+id/pantallas"
+						android:textStyle="bold"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="16sp"
+						android:textColor="@color/rectangle_4_color"
+						android:layout_marginLeft="10dp"
+						android:layout_marginTop="106dp"
+						android:layout_width="86dp"
+						android:layout_height="31dp"
+						android:text="@string/pantallas_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_3"
+					android:layout_marginTop="463dp"
+					android:layout_marginStart="288dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageView
+						android:id="@+id/pc_gamer"
+						android:layout_width="100dp"
+						android:layout_height="100dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:contentDescription="pc_gamer"
+						android:src="@drawable/pc_gamer" />
+
+					<TextView
+						android:id="@+id/pc_gamers"
+						android:layout_width="96dp"
+						android:layout_height="31dp"
+						android:layout_gravity="center_horizontal|center"
+						android:layout_marginLeft="5dp"
+						android:layout_marginTop="106dp"
+						android:gravity="center"
+						android:text="@string/pc_gamers_string"
+						android:textColor="@color/rectangle_4_color"
+						android:textSize="16sp"
+						android:textStyle="bold" />
+
+				</RelativeLayout>
+
+				<View
+					android:id="@+id/rectangle_6"
+					android:layout_width="428dp"
+					android:layout_height="401dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="781dp"
+					android:background="@drawable/rectangle_6_shape" />
+
+
+				<RelativeLayout android:id="@+id/group_10"
+					android:layout_marginTop="818dp"
+					android:layout_marginStart="53dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout
+						android:id="@+id/group_7"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp">
+
+						<ImageView
+							android:id="@+id/entregas_1"
+							android:layout_width="108dp"
+							android:layout_height="86dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:contentDescription="entregas_1"
+							android:src="@drawable/entregas_1" />
+
+						<TextView
+							android:id="@+id/entregas_el_mismo_día"
+							android:layout_width="207dp"
+							android:layout_height="37dp"
+							android:layout_gravity="center_horizontal|center"
+							android:layout_marginLeft="118dp"
+							android:layout_marginTop="20dp"
+							android:gravity="center"
+							android:text="@string/entregas_el_mismo_d_a_string"
+							android:textColor="@color/rectangle_4_color"
+							android:textSize="18sp"
+							android:textStyle="bold"
+							tools:text="Entregas el mismo día" />
+
+						<TextView
+							android:id="@+id/entregamos_todo_lo_que_necesitas__cuando_lo_necesitas"
+							android:layout_width="211.5dp"
+							android:layout_height="41.5dp"
+							android:layout_marginLeft="121dp"
+							android:layout_marginTop="44dp"
+							android:text="@string/entregamos_todo_lo_que_necesitas__cuando_lo_necesitas_string"
+							android:textColor="@color/rectangle_4_color"
+							android:textSize="13sp" />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/group_8"
+						android:layout_marginTop="116dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView
+							android:id="@+id/pagos"
+							android:layout_width="108dp"
+							android:layout_height="86dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="5dp"
+							android:contentDescription="pagos"
+							android:src="@drawable/pagos" />
+
+						<TextView android:id="@+id/pago_online_o_contra_entrega"
+							android:textStyle="bold"
+							android:textSize="18sp"
+							android:textColor="@color/rectangle_4_color"
+							android:layout_marginLeft="121dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="216dp"
+							android:layout_height="52dp"
+							android:text="@string/pago_online_o_contra_entrega_string"
+							 />
+
+						<TextView android:id="@+id/escoge_tu_m_todo_de_pago__contamos_con_pasarelas_de_pagos_certificadas_y_seguras"
+							android:textSize="13sp"
+							android:textColor="@color/rectangle_4_color"
+							android:layout_marginLeft="121dp"
+							android:layout_marginTop="46dp"
+							android:layout_width="211.5dp"
+							android:layout_height="59.5dp"
+							android:text="@string/escoge_tu_m_todo_de_pago__contamos_con_pasarelas_de_pagos_certificadas_y_seguras_string"
+							 />
+
+					</RelativeLayout>
+
+
+					<RelativeLayout android:id="@+id/group_9"
+						android:layout_marginTop="242dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<ImageView
+							android:id="@+id/compras"
+							android:layout_width="108dp"
+							android:layout_height="86dp"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp"
+							android:contentDescription="compras"
+							android:src="@drawable/compras" />
+
+						<TextView android:id="@+id/todo_lo_que_necesitas"
+							android:textStyle="bold"
+							android:layout_gravity="center_horizontal|center"
+							android:gravity="center"
+							android:textSize="18sp"
+							android:textColor="@color/rectangle_4_color"
+							android:layout_marginLeft="118dp"
+							android:layout_marginTop="6dp"
+							android:layout_width="207dp"
+							android:layout_height="37dp"
+							android:text="@string/todo_lo_que_necesitas_string"
+							 />
+
+						<TextView android:id="@+id/somos_tienda_gamer_importadores_de_hardware_y_software_para_tu_pc_"
+							android:textSize="13sp"
+							android:textColor="@color/rectangle_4_color"
+							android:layout_marginLeft="121dp"
+							android:layout_marginTop="32dp"
+							android:layout_width="211.5dp"
+							android:layout_height="57.5dp"
+							android:text="@string/somos_tienda_gamer_importadores_de_hardware_y_software_para_tu_pc__string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/gamer_1"
+					android:src="@drawable/gamer_1"
+					android:contentDescription="gamer_1"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="191dp"
+					android:layout_width="428dp"
+					android:layout_height="243dp" />
+
+				<ImageView android:id="@+id/gamer_2"
+					android:src="@drawable/gamer_2"
+					android:contentDescription="gamer_2"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="191dp"
+					android:layout_width="428dp"
+					android:layout_height="243dp" />
+
+				<ImageView android:id="@+id/gamer_3"
+					android:src="@drawable/gamer_3"
+					android:contentDescription="gamer_3"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="191dp"
+					android:layout_width="428dp"
+					android:layout_height="243dp" />
+
+				<ImageView
+					android:id="@+id/gamer_4"
+					android:layout_width="428dp"
+					android:layout_height="243dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="191dp"
+					android:contentDescription="gamer_4"
+					android:src="@drawable/gamer_4" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
